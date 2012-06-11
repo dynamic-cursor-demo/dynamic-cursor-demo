@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<mapInfo>
+	<mapObject>
+		<name>1</name>
+		<textContent>This interface uses a cursor that dynamically resizes itself based on the locations of potential targets. This technique is called a “bubble cursor” and was pioneered by Grossman and Balakrishnan (2005). The rationale for this approach is derived from increased efficiency as a result of economy of movement.</textContent>
+		<imageWidth>32</imageWidth>
+		<imageHeight>32</imageHeight>
+		<image>circle1</image>
+	</mapObject>	
+	<mapObject>
+		<name>2</name>
+		<textContent>This implementation of the “bubble cursor” explores color and sound as ways to enhance feedback for the user. Changes in hue and opacity are employed to indicate target proximity. An audible beep signals target acquisition.</textContent>
+		<imageWidth>32</imageWidth>
+		<imageHeight>32</imageHeight>
+		<image>circle2</image>
+	</mapObject>
+	<mapObject>
+		<name>3</name>
+		<textContent>Additional functionality of this interface includes use of either the mouse or keyboard for interaction. A list of keyboard commands can be found in the top right corner of the interface. Intended future research will investigate use of a joystick.</textContent>
+		<imageWidth>32</imageWidth>
+		<imageHeight>32</imageHeight>
+		<image>circle3</image>
+	</mapObject>
+</mapInfo>
